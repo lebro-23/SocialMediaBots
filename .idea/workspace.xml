@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b34254d0-f02f-46e0-8db3-b3720d376ef3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Bot/actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bot/actions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot/run_school.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bot/run_school.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot/storage_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bot/storage_functions.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Bot" />
+  </component>
+  <component name="ProjectId" id="1bV7tH2zdspnpyMBUfgMMOtcFhG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Unfollower" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Scraper" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Unfollower" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/TagBot" />
+      <recent name="$PROJECT_DIR$/Bot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.storage_functions">
+    <configuration name="run_school" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InstagramBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bot/run_school.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="storage_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InstagramBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CloudStorage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scraper/storage_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.storage_functions" />
+        <item itemvalue="Python.run_school" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b34254d0-f02f-46e0-8db3-b3720d376ef3" name="Default Changelist" comment="" />
+      <created>1588705620015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588705620015</updated>
+      <workItem from="1588705626721" duration="13116000" />
+      <workItem from="1588904700781" duration="942000" />
+      <workItem from="1589051455906" duration="4564000" />
+      <workItem from="1589235715464" duration="6389000" />
+      <workItem from="1589327798034" duration="6028000" />
+      <workItem from="1589655044789" duration="24051000" />
+      <workItem from="1591206793994" duration="34384000" />
+      <workItem from="1593705241442" duration="1850000" />
+      <workItem from="1594704554278" duration="2188000" />
+      <workItem from="1594791391582" duration="1950000" />
+      <workItem from="1595520660270" duration="1477000" />
+      <workItem from="1595649254676" duration="2482000" />
+      <workItem from="1596211332289" duration="1319000" />
+      <workItem from="1597452950100" duration="916000" />
+      <workItem from="1598206154367" duration="19815000" />
+      <workItem from="1599703935575" duration="3910000" />
+      <workItem from="1599964300296" duration="5770000" />
+      <workItem from="1599983350917" duration="5046000" />
+      <workItem from="1600064005801" duration="702000" />
+      <workItem from="1600100628548" duration="11011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InstagramBot$run_school.coverage" NAME="run_school Coverage Results" MODIFIED="1588726557042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bot" />
+  </component>
+</project>

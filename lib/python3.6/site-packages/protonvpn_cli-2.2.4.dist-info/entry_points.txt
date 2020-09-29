@@ -1,0 +1,3 @@
+[console_scripts]
+protonvpn = protonvpn_cli.cli:main
+
